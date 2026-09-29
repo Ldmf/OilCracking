@@ -19,7 +19,7 @@ return {
             Propene = 200,
             Ethane = 35,
             Ethylene = 200,
-            Methane = 200
+            Methane = 200,
         }
     }
 

@@ -13,7 +13,7 @@ return {
             Ethane = 10,
             Ethylene = 300,
             Methane = 700,
-            Helium = 100
+            Helium = 100,
         }
     }
 
