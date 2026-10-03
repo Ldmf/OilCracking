@@ -3,22 +3,22 @@
 
 // Fluids (16 Fluids)
 
-Benzene
-Butadiene
-Butane
-Butene
-Ethane
-Ethylene
-HeavyFuel
-Helium
 Hydrogen
-LightFuel
+Helium
 Methane
-Naphtha
-Octane
-Propane
+Ethylene
+Ethane
 Propene
+Propane
+Butadiene
+Butene
+Butane
+Naphtha
+Benzene
 Toluene
+Octane
+LightFuel
+HeavyFuel
 
 // Dusts
 
