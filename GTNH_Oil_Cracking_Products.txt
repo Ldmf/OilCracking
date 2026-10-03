@@ -1,3 +1,8 @@
+// Output of all Oil Cracking products in GTNH 
+
+
+// Fluids (16 Fluids)
+
 Benzene
 Butadiene
 Butane
@@ -15,5 +20,6 @@ Propane
 Propene
 Toluene
 
+// Dusts
 
 CarbonDust
