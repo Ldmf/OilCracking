@@ -4,7 +4,7 @@ return {
         cycle = 6.00,
 
 		input = {
-			Lightly_Hydro_Cracked_Reinery_gas
+			Lightly_Hydro_Cracked_Reinery_gas = 1000,
 		},
 	
 		output = {
