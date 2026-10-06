@@ -4,7 +4,7 @@ return {
         cycle = 6.00,
 		
 		input = {
-			Lightly_Hydro_Cracked_Naphta = 1000,
+			Lightly_Hydro_Cracked_Naphtha = 1000,
 		},
 		
 		output = {
